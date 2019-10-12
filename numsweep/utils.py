@@ -5,6 +5,8 @@ import torch
 import numpy as np
 
 
+# This is where the magic happens.
+
 def truncate_significand(t, n):
     if t.dtype == torch.float32:
         a = np.array(t)

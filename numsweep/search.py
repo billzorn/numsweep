@@ -1,0 +1,2 @@
+"""Shotgun and hill climb."""
+

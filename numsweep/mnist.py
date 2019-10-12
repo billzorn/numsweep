@@ -1,4 +1,4 @@
-"""Simple convnet for mnist"""
+"""Simple convnet for mnist. See https://github.com/pytorch/examples/tree/master/mnist"""
 
 import argparse
 import torch
